@@ -25,7 +25,7 @@ SECRET_KEY = '=0eprbr2*s!o+4dbc$yc&*x($zi$zi%yv$3tu$+&ghexf@$ra*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["master-jei4n.squash.io"]
 
 
 # Application definition
